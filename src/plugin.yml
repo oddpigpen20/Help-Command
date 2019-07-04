@@ -1,0 +1,9 @@
+name: SimplyHelped
+version: 1.0
+author: oddpigpen20
+main: cheetahplex.help.Help
+commands:
+  help:
+    description: basic help command
+    usage: /help
+    aliases: /h
